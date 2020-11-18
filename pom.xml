@@ -22,6 +22,7 @@
     <modules>
         <module>ming-rpc</module>
         <module>ming-thread</module>
+        <module>ming-algorithm</module>
     </modules>
 
     <dependencyManagement>
